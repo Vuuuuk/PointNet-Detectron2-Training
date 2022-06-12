@@ -1,0 +1,7 @@
+-e git+https://github.com/facebookresearch/detectron2.git#egg=detectron2
+open3d==0.14.1
+opencv-python==4.5.3.56
+pyrealsense2==2.48.0.3381
+keyboard~=0.13.5
+Pillow~=8.4.0
+numpy~=1.22.4
